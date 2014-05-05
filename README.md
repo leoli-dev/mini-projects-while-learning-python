@@ -1,6 +1,6 @@
 # mini-projects-while-learning-python
 ## Intruduction
-These are my source code for the Mini-projects for the course _An Introduction to Interactive Programming in Python_ in [Coursera](https://www.coursera.org). It is a good course for learning how to program in Python. To find more information, please click here: [https://class.coursera.org/interactivepython-004](https://class.coursera.org/interactivepython-004)
+This is my source code for the Mini-projects for the course _An Introduction to Interactive Programming in Python_ in [Coursera](https://www.coursera.org). It is a good course for learning how to program in Python. To find more information, please click here: [https://class.coursera.org/interactivepython-004](https://class.coursera.org/interactivepython-004)
 
 **WARNING:**
 Hello, all my classmates! I want to remind you of the [Honor code](https://class.coursera.org/interactivepython-004/wiki/honorcode). You are welcomed to read my code, but you can't just copy it!!!
