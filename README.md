@@ -25,3 +25,4 @@ We use a unique editor(or IDE) for programming in Python for this course, which 
 ![Memory](http://i.imgur.com/Z9WoYBF.png)
 
 ### 6. [Blackjack](https://class.coursera.org/interactivepython-004/human_grading/view/courses/972072/assessments/33/)
+![Blackjack](http://i.imgur.com/EuRbulo.png)
