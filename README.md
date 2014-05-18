@@ -26,3 +26,6 @@ We use a unique editor(or IDE) for programming in Python for this course, which 
 
 ### 6. [Blackjack](https://class.coursera.org/interactivepython-004/human_grading/view/courses/972072/assessments/33/)
 ![Blackjack](http://i.imgur.com/EuRbulo.png)
+
+### 7. [Spaceship](https://class.coursera.org/interactivepython-004/human_grading/view/courses/972072/assessments/34/)
+![Spaceship](http://i.imgur.com/phur5Ub.png)
