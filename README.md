@@ -29,3 +29,6 @@ We use a unique editor(or IDE) for programming in Python for this course, which 
 
 ### 7. [Spaceship](https://class.coursera.org/interactivepython-004/human_grading/view/courses/972072/assessments/34/)
 ![Spaceship](http://i.imgur.com/phur5Ub.png)
+
+### 8. [RiceRocks (Asteroids)](https://class.coursera.org/interactivepython-004/human_grading/view/courses/972072/assessments/35/)
+![RiceRocks (Asteroids)](http://i.imgur.com/3spW3BR.png)
